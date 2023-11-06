@@ -6,8 +6,9 @@ body {
 
 h2 {
   font-size: 2rem;
-  color: #0f6488;
+  color: #10831f;
   font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   letter-spacing: 4px;
   text-transform: uppercase;
   margin-bottom: 24px;
